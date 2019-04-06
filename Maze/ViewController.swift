@@ -7,8 +7,14 @@
 //
 
 import UIKit
+import CoreMotion
 
 class ViewController: UIViewController {
+    
+    var playerView: UIView!
+    var playerMotionManager: CMMotionManager!
+    var speedY: Double = 0.0
+    var speedX: Double = 0.0
     
     let screenSize = UIScreen.main.bounds.size
     
@@ -40,6 +46,7 @@ class ViewController: UIViewController {
         
         for y in 0 ..< maze.count {
             //コード書く
+            
         }
     }
     
