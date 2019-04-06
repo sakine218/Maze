@@ -433,7 +433,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W2T75EV2YE;
+				DEVELOPMENT_TEAM = 6753PY9LZ8;
 				INFOPLIST_FILE = Maze/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -451,7 +451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W2T75EV2YE;
+				DEVELOPMENT_TEAM = 6753PY9LZ8;
 				INFOPLIST_FILE = Maze/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
